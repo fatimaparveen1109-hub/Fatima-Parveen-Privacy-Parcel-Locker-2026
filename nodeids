@@ -1,0 +1,4 @@
+[
+  "tests/test_workflow.py::test_order_transition_map",
+  "tests/test_workflow.py::test_password_hash_roundtrip"
+]

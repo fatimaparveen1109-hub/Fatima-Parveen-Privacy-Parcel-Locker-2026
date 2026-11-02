@@ -1,0 +1,2 @@
+Product image files in this folder are distinct, original vector-style illustrations generated with Pillow for the student demo catalogue. They are not photographs. Replace with licensed/owned product photographs for a production store.
+hero_locker.jpg is a crop of a generated UI concept mockup and is not a photograph of installed hardware.
